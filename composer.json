@@ -17,8 +17,9 @@
       "symfony/orm-pack": "^1.0",
       "symfony/polyfill-uuid": "^1.13",
       "symfony/translation": "4.3.*",
-        "symfony/validator": "4.3.*",
-        "symfony/yaml": "4.3.*"
+      "symfony/validator": "4.3.*",
+      "symfony/webpack-encore-bundle": "^1.7",
+      "symfony/yaml": "4.3.*"
     },
     "require-dev": {
         "hautelook/alice-bundle": "^2.5",

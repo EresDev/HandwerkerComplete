@@ -1,0 +1,33 @@
+{
+  "register": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "register": "Register",
+    "successMessage": "Your account has been created. You can login now.",
+    "errorNetwork": "There was a network error. Try again.",
+    "errorConfirmPassword": "Password and confirm password are not same."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "errorInvalidCredentials": "Login credentials are not valid. Try again.",
+    "errorNetwork": "There was a network error. Try again."
+  },
+  "home": {
+    "heading1": "a free job board",
+    "heading2": "to find craftsmen in your area.",
+    "getStarted": "Get Started"
+  },
+  "account": {
+    "heading": "Welcome to your account.",
+    "comingSoon": "You will be able to modify your personal information on this page soon."
+  },
+  "menu": {
+    "home": "Home",
+    "login": "Login",
+    "logout": "Logout",
+    "switchTo": "Switch to"
+  }
+}

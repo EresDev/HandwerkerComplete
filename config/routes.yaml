@@ -41,3 +41,18 @@ deleteJob:
   methods: [delete]
   requirements:
     uuid: !php/const App\Domain\ValueObject\Uuid::UUID_PATTERN
+
+home:
+  path:
+    en: /{wildcard}
+    de: /{wildcard}
+  requirements:
+    wildcard: .*
+  controller: Symfony\Bundle\FrameworkBundle\Controller\TemplateController
+  defaults:
+    # the path of the template to render
+    template:  'default/index.html.twig'
+
+    # special options defined by Symfony to set the page cache
+    maxAge:    86400
+    sharedAge: 86400

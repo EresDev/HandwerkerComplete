@@ -1,0 +1,33 @@
+{
+  "register": {
+    "email": "E-mail",
+    "password": "Passwort",
+    "confirmPassword": "Kennwort bestätigen",
+    "register": "Registrieren",
+    "successMessage": "Ihr Konto wurde erstellt. Sie können sich jetzt anmelden.",
+    "errorNetwork": "Es ist ein Netzwerkfehler aufgetreten. Versuch es noch einmal.",
+    "errorConfirmPassword": "Passwort und Passwort bestätigen sind nicht dasselbe."
+  },
+  "login": {
+    "email": "Email",
+    "password": "Passwort",
+    "login": "Einloggen",
+    "errorInvalidCredentials": "Anmeldeinformationen sind ungültig. Versuch es noch einmal.",
+    "errorNetwork": "Es ist ein Netzwerkfehler aufgetreten. Versuch es noch einmal."
+  },
+  "home": {
+    "heading1": "eine kostenlose Jobbörse",
+    "heading2": "Handwerker in Ihrer Nähe zu finden.",
+    "getStarted": "Loslegen"
+  },
+  "account": {
+    "heading": "Willkommen in Ihrem Konto.",
+    "comingSoon": "In Kürze können Sie Ihre persönlichen Daten auf dieser Seite ändern."
+  },
+  "menu": {
+    "home": "Startseite",
+    "login": "Einloggen",
+    "logout": "Ausloggen",
+    "switchTo": "Wechseln Sie zu"
+  }
+}
